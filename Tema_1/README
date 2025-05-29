@@ -1,0 +1,13 @@
+Pasi:
+	1. Am preluat scheletul de inceput din laboratorul 4;
+	2. Am implementat algoritmul de trie, unde caut cel mai lung prefix pentru ip-ul cautat(luat de pe w3schools);
+	3. Am implementat 2 functii: 
+		- icmp_send_echo_reply: trimite un echo reply;
+		- icmp_send_dest_unreachable_or_timeout: trimite un mesaj de unreachable sau timeout de tip icmp;
+	4. Am implementat protocolul ARP;
+
+Dificultati:
+	1. Protocolul ARP nu a fost implementat corect, am avut probleme cu adresa de broadcast;
+	2. Confuzii intre host order si network order;
+	3. Nu adaugam adresa MAC si IP in tabela ARP cand primeam un pachet IPv4;
+	

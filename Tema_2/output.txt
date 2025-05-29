@@ -1,0 +1,2 @@
+Subscribed to topic: a_non_negative_int
+127.0.0.1:32232 - a_non_negative_int - INT - 10
